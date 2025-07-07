@@ -1,1 +1,1 @@
-console.log("ระบบเซียนน้อยทำงานแล้ว");
+// JS placeholder
