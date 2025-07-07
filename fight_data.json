@@ -1,0 +1,11 @@
+
+[
+  {
+    "fighterA": "เสกสรร อ.ขวัญเมือง",
+    "fighterB": "เมืองไทย พีเค.แสนชัย",
+    "scores": {
+      "A": {"form": 10, "ko": 4, "style": 5, "matchup": 7, "odds": 5, "risk": 5},
+      "B": {"form": 8, "ko": 7, "style": 5, "matchup": 7, "odds": 5, "risk": 5}
+    }
+  }
+]
