@@ -1,0 +1,1 @@
+const fights = [{ name: 'เสกสรร vs เมืองไทย', scores: [6.2, 6.3] }];
